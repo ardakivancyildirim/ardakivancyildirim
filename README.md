@@ -7,9 +7,7 @@
 
 - 🤝 My İnstagram Account [@ardakivancyildirim](https://instagram.com/ardakivancyildirim/)
 
-- 👨‍💻 I am studying at [Kücükyalı Mesleki ve Teknik Anadolu Lisesi high school.](Kücükyalı Mesleki ve Teknik Anadolu Lisesi high school.)
-
-- 💬 I use most **Visual Studio Code**
+- 👨‍💻 I am studying at **Küçükyalı Mesleki ve Teknik Anadolu High School**
 
 - 📫 How to reach me **ardakivancyildirim@gmail.com**
 
