@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, .NET**
 
-- 🤝 My İnstagram Account [@ardakivancyildirim](https://instagram.com/ardakivancyildirim/)
+- 🤝 My İnstagram Account [@ardakivancyildirim](https://www.instagram.com/ardakivancyildirim/)
 
 - 👨‍💻 I am studying at **Küçükyalı Mesleki ve Teknik Anadolu High School**
 
